@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hon-Ming Lam | WANG Qianwen</title>
+    <link>https://treywea.top/author/hon-ming-lam/</link>
+      <atom:link href="https://treywea.top/author/hon-ming-lam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hon-Ming Lam</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Treywea</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://treywea.top/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hon-Ming Lam</title>
+      <link>https://treywea.top/author/hon-ming-lam/</link>
+    </image>
+    
+    <item>
+      <title>AtHDA6 functions as an H3K18ac eraser to maintain pericentromeric CHG methylation in Arabidopsis thaliana</title>
+      <link>https://treywea.top/publication/athda6-functions-as-an-h3k18ac-eraser-to-maintain-pericentromeric-chg-methylation-in-arabidopsis-thaliana/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://treywea.top/publication/athda6-functions-as-an-h3k18ac-eraser-to-maintain-pericentromeric-chg-methylation-in-arabidopsis-thaliana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The histone modification H3K4me3 marks functional genes in soybean nodules</title>
+      <link>https://treywea.top/publication/the-histone-modification-h3k4me3-marks-functional-genes-in-soybean-nodules/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://treywea.top/publication/the-histone-modification-h3k4me3-marks-functional-genes-in-soybean-nodules/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
