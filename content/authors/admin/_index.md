@@ -43,6 +43,6 @@ title: Qianwen Wang
 highlight_name: true
 ---
 
-I am [Qianwen WANG (王倩雯)](https://www.treywea.top)，a research associate in School of Life Science at The Chinese University of Hong Kong. I completed my doctoral degree of Molecular Biotechnology under the supervision of [Prof.H-M Lam](https://www.sls.cuhk.edu.hk/index.php/faculty-and-staff/teaching-staff/26-sls/faculty-and-staff/teaching-staff/57-professor-lam-hon-ming) at CUHK in Feb 2021. I obtained my bachelor degree of computer science from Northeastern University in 2014.
+I am [Qianwen WANG (王倩雯)](https://www.treywea.top), a research associate in School of Life Science at The Chinese University of Hong Kong. I completed my doctoral degree of Molecular Biotechnology under the supervision of [Prof.H-M Lam](https://www.sls.cuhk.edu.hk/index.php/faculty-and-staff/teaching-staff/26-sls/faculty-and-staff/teaching-staff/57-professor-lam-hon-ming) at CUHK in Feb 2021. I obtained my bachelor degree of Computer Science from Northeastern University in 2014.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/WANG Qianwen-CV.pdf" "newtab" >}}resume(en){{< /staticref >}} or {{< staticref "uploads/王倩雯-简历.pdf" "newtab" >}}个人简历(中文){{< /staticref >}}.
