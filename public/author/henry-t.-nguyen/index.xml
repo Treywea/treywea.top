@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry T. Nguyen | WANG Qianwen</title>
+    <link>https://treywea.top/author/henry-t.-nguyen/</link>
+      <atom:link href="https://treywea.top/author/henry-t.-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henry T. Nguyen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Treywea</copyright><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://treywea.top/media/icon_hu3b1dc87240cca717a1d8f96a1daf4da0_568472_512x512_fill_lanczos_center_3.png</url>
+      <title>Henry T. Nguyen</title>
+      <link>https://treywea.top/author/henry-t.-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>Wildsoydb DataHub an online platform for accessing soybean multiomic datasets across multiple reference genomes</title>
+      <link>https://treywea.top/publication/wildsoydb-datahub-an-online-platform-for-accessing-soybean-multiomic-datasets-across-multiple-reference-genomes/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://treywea.top/publication/wildsoydb-datahub-an-online-platform-for-accessing-soybean-multiomic-datasets-across-multiple-reference-genomes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

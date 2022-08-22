@@ -27,7 +27,7 @@ doi: "https://doi.org/10.1111/tpj.15652"
 image: 
 featured: false
 projects: [Nodule]
-publication: '*The Plant Journal* (accepted)'
+publication: '*The Plant Journal* 103: 1575-1590'
 publication_short: ""
 publication_types:
 - "2"
