@@ -24,7 +24,7 @@ role: Lecturer in Department of Bioinformatics, School of Basic Medical Sciences
 social:
 - icon: envelope
   icon_pack: fas
-  link: https://mailto:treywea@gmail.com
+  link: mailto:treywea@gmail.com
 - icon: graduation-cap
   icon_pack: fas
   link: https://orcid.org/0000-0003-3553-1162
