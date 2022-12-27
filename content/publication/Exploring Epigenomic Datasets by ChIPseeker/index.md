@@ -36,7 +36,7 @@ publication_types:
 publishDate: "2022-09-29T00:00:00Z"
 tags:
 - Source Themes
-title: Wildsoydb DataHub an online platform for accessing soybean multiomic datasets across multiple reference genomes
+title: Exploring Epigenomic Datasets by ChIPseeker
 url_code: ""
 url_dataset: ""
 url_pdf: "uploads/online version CP chipseeker.pdf"
