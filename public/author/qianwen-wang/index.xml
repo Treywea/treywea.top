@@ -5,12 +5,20 @@
     <link>https://treywea.top/author/qianwen-wang/</link>
       <atom:link href="https://treywea.top/author/qianwen-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Qianwen Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Treywea</copyright><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Treywea</copyright><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://treywea.top/author/qianwen-wang/avatar_huf3502417a8ccebd5934a1897d9521c0b_930160_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Qianwen Wang</title>
       <link>https://treywea.top/author/qianwen-wang/</link>
     </image>
+    
+    <item>
+      <title>Wildsoydb DataHub an online platform for accessing soybean multiomic datasets across multiple reference genomes</title>
+      <link>https://treywea.top/publication/exploring-epigenomic-datasets-by-chipseeker/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://treywea.top/publication/exploring-epigenomic-datasets-by-chipseeker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wildsoydb DataHub an online platform for accessing soybean multiomic datasets across multiple reference genomes</title>

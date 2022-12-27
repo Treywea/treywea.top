@@ -32,7 +32,7 @@ publication: '*Plant Physiology* (accepted)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-08-20 T00:00:00Z"
+publishDate: "2022-08-20T00:00:00Z"
 tags:
 - Source Themes
 title: Wildsoydb DataHub an online platform for accessing soybean multiomic datasets across multiple reference genomes
